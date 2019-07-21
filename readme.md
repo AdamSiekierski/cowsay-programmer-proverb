@@ -2,6 +2,8 @@
 
 Cow says a nice programmer proverb every time you launch your terminal
 
+![How does it work?](example.gif)
+
 ### Installation
 ```
 npm install cowsay-programmer-proverb -g
