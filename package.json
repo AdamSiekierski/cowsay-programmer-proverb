@@ -1,0 +1,19 @@
+{
+  "name": "cowsay-programmer-proverb",
+  "version": "1.0.0",
+  "description": "Cow says random programmer proverb. Ideal to setup on terminal start",
+  "main": "index.js",
+  "repository": "https://github.com/AdamSiekierski/cowsay-programmer-proverbs.git",
+  "author": "Adam Siekierski",
+  "license": "MIT",
+  "private": false,
+  "preferGlobal": true,
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "chance": "^1.0.18",
+    "cowsay": "^1.4.0"
+  },
+  "bin": {
+    "cow-programmer-proverb": "bin/cow-programmer-proverb"
+  }
+}
