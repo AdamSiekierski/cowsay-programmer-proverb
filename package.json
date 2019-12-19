@@ -3,7 +3,7 @@
   "version": "1.0.3",
   "description": "Cow says random programmer proverb. Ideal to setup on terminal start",
   "main": "index.js",
-  "repository": "https://github.com/AdamSiekierski/cowsay-programmer-proverbs.git",
+  "repository": "https://github.com/AdamSiekierski/cowsay-programmer-proverb.git",
   "author": "Adam Siekierski",
   "license": "MIT",
   "private": false,
