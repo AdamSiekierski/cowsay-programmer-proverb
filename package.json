@@ -1,6 +1,6 @@
 {
   "name": "cowsay-programmer-proverb",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Cow says random programmer proverb. Ideal to setup on terminal start",
   "main": "index.js",
   "repository": "https://github.com/AdamSiekierski/cowsay-programmer-proverbs.git",
